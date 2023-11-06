@@ -1,0 +1,24 @@
+.hist{
+    display: flex;
+    border: solid black 2px;
+    margin-left: 50px;
+    margin-right: 50px;
+    flex-direction: row;
+    margin-bottom: 5px;    
+}
+.res{
+    margin-top: 50px;
+}
+.histData{
+    padding-left: 20px;
+    padding: 5px;
+}
+.goSearch{
+    background-color: rgb(102, 47, 168);
+    text-decoration: none;
+    color: white; 
+    padding: 5px;
+}
+.goSearch:hover{
+    color: white;
+}

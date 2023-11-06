@@ -1,0 +1,15 @@
+
+.flex-container-po{
+    padding: 10px;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 0%;
+}
+
+.bandera{
+    width:70px;
+    height:50px;
+    margin-right: 20px;
+    border: solid black 2px
+}

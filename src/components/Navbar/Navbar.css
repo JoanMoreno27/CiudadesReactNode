@@ -1,0 +1,56 @@
+.navBar{
+    background-color: rgb(102, 47, 168);
+    height: 100px;
+    display: flex;
+    
+}
+.ciudades{
+    padding-left: 10%;
+    padding-top: 2%;
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.botonBuscar{
+    padding: 10px;
+    padding-top: 10px;
+    text-decoration: none;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    color:white;
+}
+.botonHistorial{
+    padding: 10px;
+    margin-top: 3px;
+    text-decoration: none;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 20%;
+    color:white;
+}
+.activo{
+    background-color: white;
+    color: black;
+}
+
+.botonHistorial:hover{
+    color: white;
+}
+.botonBuscar:hover{
+    color: white;
+}
+.activo:hover{
+    color:black;
+}
+.botonesDiv{
+    display: flex;
+    padding-top: 3%;
+    margin-right: 5%;
+    justify-content: end;
+    width: 100%;
+}
+.imgCit{
+    width:150; 
+    height:120;
+    padding: 10px;
+    margin-left: 10px;
+}

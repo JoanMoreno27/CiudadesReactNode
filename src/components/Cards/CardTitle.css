@@ -1,0 +1,27 @@
+.containerCardTitle{
+    width: 100%;
+    overflow: auto;
+    border: solid #2D5252;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.containerInfo{
+    overflow: auto;
+}
+
+.titulo{
+    height: 50px;
+    margin-bottom: 0%;
+    padding: 10px;
+    text-align: end;
+    color: white;
+    border-bottom: solid black;
+    background-color: rgb(102, 47, 168);
+}
+
+.minim{
+    margin-left: 40%;
+    background-color: rgb(255, 79, 79);
+}

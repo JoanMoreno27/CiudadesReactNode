@@ -1,0 +1,3 @@
+Esta página web simula un buscador de información de un código postal con datos bastante simples mostrados en cards.
+Este es mi primer proyecto con node y react y la finalidad de esta aplicación es aprender sobre el tratamiento de los datos de apis y los hooks de react.
+Para comenzar a ver el proyecto recomiendo primero ver el App y seguido el componente SearchPage, de ahi al subcomponente o función que quieras ver.
